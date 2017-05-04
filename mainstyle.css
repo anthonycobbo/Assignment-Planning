@@ -1,0 +1,142 @@
+@charset "utf-8";
+body ul {
+	display: inline;
+	font-size: 18px;
+}
+#homepara {
+	border-top-width: thin;
+	border-top-style: solid;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	margin-top: 40px;
+	width: 600px;
+	float: left
+}
+body img {
+	float: left;
+	margin-left: 40px;
+	margin-top: 8px;
+}
+body h1 {
+	text-indent: 120px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	font-size: 38px;
+}
+body h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 24px;
+	font-style: italic;
+}
+body h3 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 18px;
+}
+body p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 16px;
+}
+#homeparaimg img {
+	border: medium solid #E4C006;
+	margin-top: 40px;
+	border-radius: 10px;
+}
+
+#calltoaction {
+	border-width: medium;
+	border-style: solid;
+	width: 400px;
+	height: 450px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 80px;
+	background-color: #E4C006;
+	border-radius: 10px;
+}
+#notices h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+#notices h3 {
+	text-indent: 20px;
+}
+#notices p {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#notices {
+	clear: both;
+	border-width: medium;
+	border-style: solid;
+	position: relative;
+	top: 80px;
+	border-radius: 20px;
+	width: 800px;
+}
+#calltoaction h2 {
+	text-align: center;
+	text-decoration: underline;
+	font-style: normal;
+}
+#calltoaction p {
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#calltoaction img {
+	margin-left: 100px;
+	border-width: medium;
+	border-style: solid;
+	border-radius: 10px;
+}
+#head {
+	border-style: solid;
+	border-width: medium;
+	border-radius: 40px;
+	background-color: #006EBF;
+	width: 1000px;
+	margin-left: 25px;
+}
+
+#table1 {
+	float: left;
+	width: 700px;
+	margin-top: 80px;
+}
+#table2 {
+	float: right;
+	margin-right: 80px;
+	margin-top: 810px;
+}
+tr td h3 {
+	text-align: center;
+}
+body h4 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 30px;
+	font-style: italic;
+	text-indent: 45px;
+	text-decoration: underline;
+}
+tr td img {
+	border-width: medium;
+	border-style: solid;
+	border-radius: 10px;
+}
+#artistimg img {
+	float: left;
+	border-width: medium;
+	border-style: solid;
+	border-radius: 40px;
+	margin-top: 60px;
+}
+#artist  {
+	float: left;
+	margin-left: 40px;
+	margin-top: 80px;
+	width: 500px;
+}
